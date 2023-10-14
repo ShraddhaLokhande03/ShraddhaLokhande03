@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/shraddha-lokhande-3212aa222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shraddha Lokhande" height="30" width="40" /></a>
 <!--<a href="https://kaggle.com/shivam1750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shivam1750" height="30" width="40" /></a>-->
 <!--<a href="https://www.youtube.com/c/shivam borse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shivam borse" height="30" width="40" /></a>-->
-<a href="https://leetcode.com/lokhandeshraddha980/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Leetcode.svg" alt="@shraddha Lokhande" height="30" width="40" /><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/></a>
+<a href="https://leetcode.com/lokhandeshraddha980/" target="blank"><img width="30" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Shraddha Lokhande"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
